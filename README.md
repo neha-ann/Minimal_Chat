@@ -1,6 +1,6 @@
-# minimal_chat
+# minimal_chat 
 
-A new Flutter project.
+A new Flutter project created by Neha
 
 ## Getting Started
 
